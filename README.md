@@ -1,2 +1,2 @@
 # My Personal Website
-#click here to enter my profile: https://hariuchi0506.github.io/kevinebio.github.io/
+#click here to enter my profile: https://kevine-h.github.io/bio/
